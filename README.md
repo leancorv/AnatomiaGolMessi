@@ -1,4 +1,5 @@
 # ⚽ La Anatomía de un Gol de Messi
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://anatomiagolmessi.streamlit.app)
 
 Análisis exploratorio de más de 900 goles a lo largo de toda la carrera de Lionel Messi (2005–2026), con el objetivo de entender **cómo** y **cuándo** mete goles — más allá del simple conteo por temporada.
 
